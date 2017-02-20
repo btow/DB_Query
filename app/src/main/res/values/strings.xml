@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DB_Query</string>
+    <string name="all_records">Все записи</string>
+    <string name="Countries_list">Справочник стран</string>
+    <string name="Function">Функция</string>
+    <string name="Population">Население ></string>
+    <string name="Population_in_the_region">Население по региону</string>
+    <string name="Having"><![CDATA[Население по региону >]]></string>
+    <string name="Sort">Сортировка</string>
+    <string name="rbName">Наименование</string>
+    <string name="People_population">Население</string>
+    <string name="Region">Регион</string>
+</resources>
